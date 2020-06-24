@@ -11,6 +11,5 @@
 
 # http://ibdfam.org.br/covid19/country/#parametro
 > Contém a informação de total de casos confirmados de acordo com o parametro da URL
-> #parmetro -> brazil, india e afins
 
-
+> #parametro -> brazil, india e afins
